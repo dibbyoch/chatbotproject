@@ -1,0 +1,63 @@
+[
+  {
+    "value": "6th july",
+    "synonyms": [
+      "6th july",
+      "july 6th"
+    ]
+  },
+  {
+    "value": "24th march 2022",
+    "synonyms": [
+      "24th march 2022",
+      "March 24,2022"
+    ]
+  },
+  {
+    "value": "monday",
+    "synonyms": [
+      "monday",
+      "MONDAY",
+      "Monday"
+    ]
+  },
+  {
+    "value": "Saturday",
+    "synonyms": [
+      "Saturday",
+      "SATURDAY",
+      "saturday"
+    ]
+  },
+  {
+    "value": "tuesday",
+    "synonyms": [
+      "tuesday"
+    ]
+  },
+  {
+    "value": "wednesday",
+    "synonyms": [
+      "wednesday"
+    ]
+  },
+  {
+    "value": "thursday",
+    "synonyms": [
+      "thursday"
+    ]
+  },
+  {
+    "value": "friday",
+    "synonyms": [
+      "friday"
+    ]
+  },
+  {
+    "value": "sunday",
+    "synonyms": [
+      "sunday",
+      "SUNDAY"
+    ]
+  }
+]

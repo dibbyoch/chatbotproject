@@ -1,0 +1,57 @@
+{
+  "id": "12f37e18-c310-4b9c-9623-7f12f16bf2cf",
+  "name": "doctorenquiry",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "2b3524d1-058f-46a2-a764-2231a3b19e26",
+          "name": "doctorlist",
+          "required": true,
+          "dataType": "@doctorlist",
+          "value": "$doctorlist",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "which doctor you would like appointment with?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Appointment set ! Anything ese you want ?",
+            "Alrightyy ! Done !",
+            "This appointment is set!"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

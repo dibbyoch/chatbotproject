@@ -1,0 +1,9 @@
+{
+  "id": "0b189cdc-705a-42cb-9ae0-ee21a3df9e4a",
+  "name": "doctorlist",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

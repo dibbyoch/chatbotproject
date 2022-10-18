@@ -1,0 +1,85 @@
+[
+  {
+    "id": "a2eea758-abeb-4a9b-812b-78e6dc4a5621",
+    "data": [
+      {
+        "text": "appointment with Dr. ",
+        "userDefined": false
+      },
+      {
+        "text": "Sandip Sen",
+        "meta": "@doctorlist",
+        "alias": "doctorlist",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e3433ee9-330c-4a44-840e-3e67b9c19051",
+    "data": [
+      {
+        "text": "appointment please",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8c42f741-4db9-4c6d-8018-0695ef7e1e6f",
+    "data": [
+      {
+        "text": "I want an appointment with Dr. ",
+        "userDefined": false
+      },
+      {
+        "text": "Abhijeet Sharan",
+        "meta": "@doctorlist",
+        "alias": "doctorlist",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d75930ec-46d9-4f92-9531-2831da500314",
+    "data": [
+      {
+        "text": "I want an appoint with Dr. ",
+        "userDefined": false
+      },
+      {
+        "text": "Farida Begum",
+        "meta": "@doctorlist",
+        "alias": "doctorlist",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d780d117-a2e9-41e4-a989-9422a1ce44ad",
+    "data": [
+      {
+        "text": "I want an appointment",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]
